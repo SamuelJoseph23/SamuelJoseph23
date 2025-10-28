@@ -9,7 +9,7 @@ I am a Computer Science (Honors in Cyber Security, where my studies immerse me i
 - Music lover & piano enthusiast
 - Game development: building fun & interactive experiences
 - Cyber Security
-- 
+  
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/samuel-joseph-a9049b296/)
 
