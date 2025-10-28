@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I’m Samuel Joseph
 
-<!--
-**SamuelJoseph23/SamuelJoseph23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Engineering Student (Cyber Security)**  
+I’m passionate about learning, building, and securing software systems. Currently, I’m on a journey to master the world of cyber security while pursuing my degree.
 
-Here are some ideas to get you started:
+## 🎹 Interests & Hobbies
+- Music lover & piano enthusiast
+- Game development: building fun & interactive experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/samuel-joseph-a9049b296/)
+
+Feel free to check out my repositories and connect!
