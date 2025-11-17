@@ -14,6 +14,15 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelJoseph23&show_icons=true&theme=default" alt="Samuel's GitHub Stats" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJoseph23&layout=compact&theme=default" alt="Samuel's Top Languages" height="140">
+</p>
+
+---
+
 ## 📌 Pinned & Featured Projects
 
 - [MIDITypist](https://github.com/SamuelJoseph23/MIDITypist)  
@@ -58,7 +67,3 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
 ## ✉️ Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-joseph-a9049b296)  
-
----
-
-![Samuel's Github Stats](https://github-readme-stats.vercel.app/api?username=SamuelJoseph23&show_icons=true&count_private=true&hide_title=true)
