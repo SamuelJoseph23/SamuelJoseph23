@@ -18,8 +18,8 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelJoseph23&show_icons=true&theme=default" alt="Samuel's GitHub Stats" height="140">
-  <img src="https://github.com/SamuelJoseph23/SamuelJoseph23/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJoseph23&layout=compact&theme=default" alt="Samuel's Top Languages" height="140">
+  <img src="https://komarev.com/ghpvc/?username=SamuelJoseph23&style=plastic" alt="Profile views"/>
 </p>
 
 ---
