@@ -10,7 +10,7 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
 
 - 🔑 Interests: Full-stack dev, AI/ML, NLP, cybersecurity, quantum computing, game development
 - 💻 Languages: Python, Java, C++, SQL, JavaScript, HTML/CSS, C#, Ruby
-- 🎮 Hobbies: Gaming, Music(Pianisy), MIDI/audio programming and more
+- 🎮 Hobbies: Gaming, Music(Pianist), MIDI/audio programming and more
 
 ---
 
@@ -36,20 +36,7 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
   *Deep learning-based emotion detection system; LSTM, BERT; 90%+ accuracy; full NLP pipeline & visualization tools.*
 
 - [AI-Desktop-Agent](https://github.com/SamuelJoseph23/AI-Desktop-Agent)  
-  *Desktop Agent AI (forked project)*
-
----
-
-## 🗂️ Notable Repositories
-
-- [DBMS_Project](https://github.com/SamuelJoseph23/DBMS_Project) – C# + MySQL WinForms DBMS demo app
-- [samuelc](https://github.com/SamuelJoseph23/samuelc) – C programs collection
-- [samueljava](https://github.com/SamuelJoseph23/samueljava) – Complete Java programs archive
-- [CICF-ChatBot-Task](https://github.com/SamuelJoseph23/CICF-ChatBot-Task) – Python chatbot for task management 
-- [commercewebsite](https://github.com/SamuelJoseph23/commercewebsite) – Full-stack e-shop, [Live Demo](https://commercewebsite-phi.vercel.app)
-- [my-DF-Notes](https://github.com/SamuelJoseph23/my-DF-Notes) – Assignments & reference notes
-- [samuelruby](https://github.com/SamuelJoseph23/samuelruby) – Ruby programs
-- [IWP_Team11](https://github.com/SamuelJoseph23/IWP_Team11) – Web project for CIA
+  *Desktop Agent AI*
 
 ---
 
@@ -62,6 +49,7 @@ Actively contribute projects ranging from MIDI tool applications and ML pipeline
 - C# (WinForms, DB apps, Game Development)
 - Web: HTML, CSS, JavaScript
 - Ruby, Bash, Markdown
+- Cyber Security Tools
 
 ---
 
