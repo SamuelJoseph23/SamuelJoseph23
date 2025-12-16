@@ -1,58 +1,92 @@
-# Hi, I'm Samuel Joseph!
+<div align="center">
+  
+# Samuel Joseph
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-joseph-a9049b296/)
+[![GitHub followers](https://img.shields.io/github/followers/SamuelJoseph23?label=Follow&style=social)](https://github.com/SamuelJoseph23)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-B.Tech Computer Science (Honours in Cybersecurity) student. 
-Passionate about building software, ML/NLP models, and exploring security challenges.  
-Actively contribute projects ranging from MIDI tool applications and ML pipelines to web/cloud and system programming.
-
-- 🔑 Interests: Full-stack dev, AI/ML, NLP, cybersecurity, quantum computing, game development
-- 💻 Languages: Python, Java, C++, SQL, JavaScript, HTML/CSS, C#, Ruby
-- 🎮 Hobbies: Gaming, Music(Pianist), MIDI/audio programming and more
+I'm a developer and researcher with a deep interest in machine learning, security, game development and full-stack development. My work focuses on building intelligent systems that prioritize both performance and security, particularly at the intersection of quantum-safe cryptography and explainable AI.
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelJoseph23&show_icons=true&theme=default" alt="Samuel's GitHub Stats" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJoseph23&layout=compact&theme=default" alt="Samuel's Top Languages" height="140">
-  <img src="https://komarev.com/ghpvc/?username=SamuelJoseph23&style=plastic" alt="Profile views"/>
-</p>
+### Security & Cryptography
+**[Quantum-Safe Hybrid ML](https://github.com/SamuelJoseph23/quantum-safe-hybrid-ml)**  
+A research project implementing post-quantum homomorphic encryption for machine learning on sensitive datasets. This addresses the growing concern of quantum computing threats to current encryption standards.
 
----
+**[Automated Security Code Review](https://github.com/SamuelJoseph23/automated-security-code-review)**  
+An intelligent tool that uses machine learning, pattern matching, and abstract syntax tree analysis to automatically detect security vulnerabilities in codebases.
 
-## 📌 Pinned & Featured Projects
+### Machine Learning & NLP
+**[BERT Emotion Pipeline](https://github.com/SamuelJoseph23/bert-emotion-pipeline)**  
+A deep learning system that detects emotions in text using LSTM neural networks, designed for applications in sentiment analysis and human-computer interaction.
 
-- [MIDITypist](https://github.com/SamuelJoseph23/MIDITypist)  
-  *Modern Windows MIDI tool to map MIDI notes and CCs to keyboard keys. Intuitive GUI, live mapping management, and fast typing for creative workflow and accessibility!*
+**[Language Detection NLP Pipeline](https://github.com/SamuelJoseph23/language-detection-nlp-pipeline)**  
+Multilingual language detection system with comprehensive text preprocessing, tokenization, and classification capabilities.
 
-- [ml-xai-pipeline](https://github.com/SamuelJoseph23/ml-xai-pipeline)  
-  *End-to-end tabular ML pipeline with explainability (ELI5 reports), classifier training, preprocessing and feature importance analysis.*
+**[ML XAI Pipeline](https://github.com/SamuelJoseph23/ml-xai-pipeline)**  
+An end-to-end pipeline focused on explainable AI, providing transparency in model decisions through feature importance analysis and interpretable outputs.
 
-- [bert-emotion-pipeline](https://github.com/SamuelJoseph23/bert-emotion-pipeline)  
-  *Deep learning-based emotion detection system; LSTM, BERT; 90%+ accuracy; full NLP pipeline & visualization tools.*
+### Full-Stack Development
+**[University Internship Management Portal](https://github.com/SamuelJoseph23/University-Internship-Management-Portal)**  
+A complete web application built with Node.js, Express, and MongoDB for managing university internship processes, student applications, and administrative workflows.
 
-- [AI-Desktop-Agent](https://github.com/SamuelJoseph23/AI-Desktop-Agent)  
-  *Desktop Agent AI*
+**[DBMS Project](https://github.com/SamuelJoseph23/DBMS_Project)**  
+Database management system developed with C# and MySQL, demonstrating practical database design and implementation.
 
----
-
-## 🏆 Skills
-
-- Python (ML, NLP, automation)
-- C++ / C (WinAPI, system, audio processing)
-- Java (desktop/web apps)
-- SQL & JDBC (database)
-- C# (WinForms, DB apps, Game Development)
-- Web: HTML, CSS, JavaScript
-- Ruby, Bash, Markdown
-- Cyber Security Tools
+### Creative Tools
+**[MIDITypist](https://github.com/SamuelJoseph23/MIDITypist)**  
+A Windows application that maps MIDI inputs to keyboard actions, enabling musicians and creators to automate workflows and explore new creative possibilities.
 
 ---
 
-## ✉️ Connect with Me
+## Technical Skills
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-joseph-a9049b296)  
+**Programming Languages**  
+Python, Java, JavaScript, C++, C#, C, Ruby
+
+**Machine Learning & AI**  
+TensorFlow, PyTorch, scikit-learn, NLTK, spaCy, LSTM networks, BERT, Explainable AI
+
+**Web Development**  
+Node.js, Express.js, HTML/CSS, RESTful APIs
+
+**Databases**  
+MongoDB, MySQL, Database Design
+
+**Security & Cryptography**  
+Post-quantum cryptography, Homomorphic encryption, Vulnerability detection, Secure coding practices
+
+**Tools & Platforms**  
+Git, GitHub, Linux, Windows development
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelJoseph23&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJoseph23&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## Get in Touch
+
+**LinkedIn:** [samuel-joseph-a9049b296](https://www.linkedin.com/in/samuel-joseph-a9049b296/)  
+
+---
+
+<div align="center">
+
+</div>
