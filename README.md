@@ -35,6 +35,8 @@ Education: Computer Science (Honors) - Cybersecurity Specialization
 
 <br/><br/>
 
+<b>Cyber Security</b> <br>
+
 <img alt="Nmap" src="https://img.shields.io/badge/Nmap-Tool-1a1b27?style=flat-square&color=1a1b27&labelColor=1a1b27" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-Tool-1a1b27?style=flat-square&color=1a1b27&labelColor=1a1b27" />
 <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP-Tool-1a1b27?style=flat-square&color=1a1b27&labelColor=1a1b27" />
