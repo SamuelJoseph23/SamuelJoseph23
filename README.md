@@ -107,14 +107,6 @@ I'm always interested in collaborating on innovative projects, discussing cybers
 - LinkedIn: [Samuel Joseph](https://www.linkedin.com/in/samuel-joseph-a9049b296/)
 - Email: [samuel.joseph2k05@gmail.com](mailto:samuel.joseph2k05@gmail.com)
 
-## Goals for 2026
-
-- Contribute to cybersecurity-focused open-source projects
-- Advance knowledge in quantum-safe cryptography
-- Build secure, user-friendly applications
-- Share knowledge with the developer community
-- Explore innovative applications in web and desktop development
-
 ## Let's Collaborate
 
 I'm actively looking to collaborate on projects that challenge conventional thinking and push the boundaries of what's possible in cybersecurity and application development. If you have an interesting project or idea, let's connect!
